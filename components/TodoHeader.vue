@@ -1,14 +1,10 @@
 <template>
   <header>
-    <h1>To Do IT!</h1>
+    <h1>Todo it !</h1>
   </header>
 </template>
 
-<script>
-export default {
-
-}
-</script>
+<script></script>
 
 <style scoped>
   h1{
